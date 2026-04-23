@@ -187,6 +187,6 @@ No build pipeline. No framework. No dependency management. A portfolio site does
 
 ---
 
-*Built by Navrioska Mateo Mejía. Senior TPM. AI builder. Methodology forked from 14 years of delivering programs that actually ship.*
+*Built by Navrioska Mateo Mejía. Senior TPM. AI builder. Methodology forked from 15 years of delivering programs that actually ship.*
 
 *[navrioska.com](https://navrioska.com) · [LinkedIn](https://linkedin.com/in/navrioska)*
